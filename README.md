@@ -1,2 +1,3 @@
 # hello-world
-Just a practice repository
+
+Hello my name is David and I am learning how to use GitHub
